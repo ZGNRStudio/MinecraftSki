@@ -1,1 +1,1 @@
-# MinecraftSki
+# SkiMod
